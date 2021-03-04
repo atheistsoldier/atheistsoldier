@@ -23,5 +23,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=atheistsoldier&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajdeep-G" alt="Rajdeep-G" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atheistsoldier" alt="atheistsoldier" /> </p>
 
